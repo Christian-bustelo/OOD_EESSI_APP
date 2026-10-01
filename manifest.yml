@@ -1,0 +1,10 @@
+---
+name: Desktop
+icon: fa://desktop
+category: Interactive Apps
+subcategory: Desktops
+role: batch_connect
+description: |
+  This app will launch an interactive desktop on one compute node. You
+  will have full access to the list of resources that EESSI provides, you will be able to choose
+  the modules that you need. 
